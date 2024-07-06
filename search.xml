@@ -1,95 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>About</title>
-    <url>/bio/about/choi/</url>
-    <content><![CDATA[<p>Welcome to this website!This is online notebook of Saitung Choi, who is studying in Nankai University, Tianjin.</p>
-<span id="more"></span>
-
-<p>In this notebook I will post my notes, questions, and thinking about Biology.</p>
-<p>I believe that the 21st century is the century of Biology! Let’s make biology greater in the fulture!</p>
-<p>Best wishes for the learner of Biology Science. I am being with you.</p>
-<blockquote>
-<p>STAND ON THE SHOULDERS OF GIANTS.</p>
-</blockquote>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>HEDB | 1 Get ready for Pregnancy</title>
+      <link href="/bio/HEDB/getrd4pregnancy/"/>
+      <url>/bio/HEDB/getrd4pregnancy/</url>
+      
+        <content type="html"><![CDATA[<p>Gametogenesis; Preparation of the Female; Reproductive Tract for Pregnancy; Hormonal interactions Involved with Reproduction in Males.</p><span id="more"></span><h2 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h2><ul><li>Understand Meiosis<ul><li>Understand the stages and the molecular mechanism of meiotic arrest in the female</li></ul></li><li>Understand Spermatogenesis<ul><li>Blood-testis barrier</li><li>Cellular preparation</li><li>Spermiogenesis: what is the final structure of spermatozoa</li><li>The site for the final stage of functional maturation of sperm cells</li></ul></li><li>Understand the hormonal control of the female reproductive cycle<ul><li>Hormonal interactions with tissues (ovary, uterus)</li><li>The negative feedback mechanisms</li></ul></li></ul><h2 id="Gametogensis"><a href="#Gametogensis" class="headerlink" title="Gametogensis"></a>Gametogensis</h2><p>Gametogensis has 4 phases:</p><ul><li>The germ cells which is extraembronic origined <strong>migrate</strong> into the gonads. This process is same for both male and female.</li><li><strong>Mitosis</strong> of the germ cells, making an increase in the number.</li><li><strong>Meiosis</strong> of the germ cells, making a reduction in chomosomal number.</li><li>Structural and functional <strong>maturation</strong> of the eggs and spermatozoa.</li></ul><h3 id="Phase-1-Migration"><a href="#Phase-1-Migration" class="headerlink" title="Phase 1 Migration"></a>Phase 1 Migration</h3><ol><li>Precursors of gametes arise outside the gonads;</li><li>These cells can be recongnizable at 24d after fertilization;</li><li>These precursors are located in the endodermal layer of the yolk sac</li><li>They have characteristics as below:<ul><li>Large size,</li><li>High content of glycogen,</li><li>Hign content of alkaline phosphatase.</li></ul></li></ol><p>The process of Migration:<br>    - Germ cells exit from the yolk sac<br>    - Get into the hindgut epithelium<br>    - Migrate through the dorsal mesentery<br>    - Reach the primordia of the gonads</p><p>If primordial germ cells lodge in extragonadal sites and survived, they become teratomas.</p><h3 id="Phase-2-Mitosis"><a href="#Phase-2-Mitosis" class="headerlink" title="Phase 2 Mitosis"></a>Phase 2 Mitosis</h3><p><strong>Oogonia</strong>: mitotically active germ cells in the female.</p><ol><li>Intense mitotic activity: a few hundreds to 7 Mil.</li><li>Atresia: natural degeneration until menopause.</li></ol><p><strong>Spermatogonia</strong>: mitotically active germ cells in the male.</p><ol><li>Mitosis begins in the embryotic testes</li><li>Mitosis ceases in the second trimester</li><li>Mitosis resumes at puberty</li><li>Mitosis continues throughout life</li></ol><h3 id="Phase-3-Meiosis"><a href="#Phase-3-Meiosis" class="headerlink" title="Phase 3 Meiosis"></a>Phase 3 Meiosis</h3><p>Biological significance:</p><ul><li>Reduction of the number of chromosomes. (from diloid to haploid)</li><li><strong>Independent reassortment</strong> of maternal and paternal chromosomes.</li><li>Further redistribution of genetic material through the process of <strong>cross-over</strong>.</li></ul><h4 id="Meiosis-in-females"><a href="#Meiosis-in-females" class="headerlink" title="Meiosis in females"></a>Meiosis in females</h4><ul><li>Primary oocyte: the oogonia enter the first meiotic division</li><li>Primary oocyte <em>arrests</em> in the prophase of the first meiotic division</li><li>Primary oocyte accumulates mRNA, rRNA, and cortical granules</li><li>Primary oocytes (10-30) complete the first meiotic division with each menstrual cycle after puberty</li><li>After completion, secondary oocyte and polar body appear.</li><li>The secondary oocytes begin the second meiotic division, and are <em>arrested</em> at metaphase</li><li>The secondary oocytes complete the second meiotic division when it is fertilized by a spermatozoon</li><li>A fertilized ovum and second polar body are produced</li></ul><h4 id="Meiosis-in-males"><a href="#Meiosis-in-males" class="headerlink" title="Meiosis in males"></a>Meiosis in males</h4><h2 id="Quiz"><a href="#Quiz" class="headerlink" title="Quiz"></a>Quiz</h2><ol><li>When does meiosis begin in the female and in the male?</li></ol><p><em>In the female, meiosis begins before or at birth. In the male, meiosis begin after puberty.</em></p><ol start="2"><li>What is the difference between spermatogenesis and spermiogenesis?</li></ol><p><em>Spermatogenesis means the whole process of the meiosis and the cellular preparation.</em></p><p><em>Spermiogenesis means a part of spermatogenesis which is the process of transformation from spermatids to spermatozoa.</em></p><ol start="3"><li>At what two stages of oogenesis in meiosis arrested in the female?</li></ol><p><em>The first stage is from the birth to the puberty. The meiotic division arrests in diplotene state.</em></p><p><em>The second stage is after ovulation and before the fertilization. The meiosis arrest at metaphase II.</em></p>]]></content>
+      
+      
       <categories>
-        <category>about</category>
+          
+          <category> Human Embryology &amp; Developmental Biology </category>
+          
       </categories>
-      <tags>
-        <tag>about</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HEDB | 1 Get ready for Pregnancy</title>
-    <url>/bio/HEDB/getrd4pregnancy/</url>
-    <content><![CDATA[<p>Gametogenesis; Preparation of the Female; Reproductive Tract for Pregnancy; Hormonal interactions Involved with Reproduction in Males.</p>
-<span id="more"></span>
-
-<h2 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h2><ul>
-<li>Understand Meiosis<ul>
-<li>Understand the stages and the molecular mechanism of meiotic arrest in the female</li>
-</ul>
-</li>
-<li>Understand Spermatogenesis<ul>
-<li>Blood-testis barrier</li>
-<li>Cellular preparation</li>
-<li>Spermiogenesis: what is the final structure of spermatozoa</li>
-<li>The site for the final stage of functional maturation of sperm cells</li>
-</ul>
-</li>
-<li>Understand the hormonal control of the female reproductive cycle<ul>
-<li>Hormonal interactions with tissues (ovary, uterus)</li>
-<li>The negative feedback mechanisms</li>
-</ul>
-</li>
-</ul>
-<h2 id="Gametogensis"><a href="#Gametogensis" class="headerlink" title="Gametogensis"></a>Gametogensis</h2><p>Gametogensis has 4 phases:</p>
-<ul>
-<li>The germ cells which is extraembronic origined <strong>migrate</strong> into the gonads. This process is same for both male and female.</li>
-<li><strong>Mitosis</strong> of the germ cells, making an increase in the number.</li>
-<li><strong>Meiosis</strong> of the germ cells, making a reduction in chomosomal number.</li>
-<li>Structural and functional <strong>maturation</strong> of the eggs and spermatozoa.</li>
-</ul>
-<h3 id="Phase-1-Migration"><a href="#Phase-1-Migration" class="headerlink" title="Phase 1 Migration"></a>Phase 1 Migration</h3><ol>
-<li>Precursors of gametes arise outside the gonads;</li>
-<li>These cells can be recongnizable at 24d after fertilization;</li>
-<li>These precursors are located in the endodermal layer of the yolk sac</li>
-<li>They have characteristics as below:<ul>
-<li>Large size,</li>
-<li>High content of glycogen,</li>
-<li>Hign content of alkaline phosphatase.</li>
-</ul>
-</li>
-</ol>
-<p>The process of Migration:<br>    - Germ cells exit from the yolk sac<br>    - Get into the hindgut epithelium<br>    - Migrate through the dorsal mesentery<br>    - Reach the primordia of the gonads</p>
-<p>If primordial germ cells lodge in extragonadal sites and survived, they become teratomas.</p>
-<h3 id="Phase-2-Mitosis"><a href="#Phase-2-Mitosis" class="headerlink" title="Phase 2 Mitosis"></a>Phase 2 Mitosis</h3><p><strong>Oogonia</strong>: mitotically active germ cells in the female.</p>
-<ol>
-<li>Intense mitotic activity: a few hundreds to 7 Mil.</li>
-<li>Atresia: natural degeneration until menopause.</li>
-</ol>
-<h2 id="Quiz"><a href="#Quiz" class="headerlink" title="Quiz"></a>Quiz</h2><ol>
-<li>When does meiosis begin in the female and in the male?</li>
-</ol>
-<p><em>In the female, meiosis begins before or at birth. In the male, meiosis begin after puberty.</em></p>
-<ol start="2">
-<li>What is the difference between spermatogenesis and spermiogenesis?</li>
-</ol>
-<p><em>Spermatogenesis means the whole process of the meiosis and the cellular preparation.</em></p>
-<p><em>Spermiogenesis means a part of spermatogenesis which is the process of transformation from spermatids to spermatozoa.</em></p>
-<ol start="3">
-<li>At what two stages of oogenesis in meiosis arrested in the female?</li>
-</ol>
-<p><em>The first stage is from the birth to the puberty. The meiotic division arrests in diplotene state.</em></p>
-<p><em>The second stage is after ovulation and before the fertilization. The meiosis arrest at metaphase II.</em></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> pregnancy </tag>
+            
+            <tag> gametogensis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>About</title>
+      <link href="/bio/about/choi/"/>
+      <url>/bio/about/choi/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to this website!This is online notebook of Saitung Choi, who is studying in Nankai University, Tianjin.</p><span id="more"></span><p>In this notebook I will post my notes, questions, and thinking about Biology.</p><p>I believe that the 21st century is the century of Biology! Let’s make biology greater in the fulture!</p><p>Best wishes for the learner of Biology Science. I am being with you.</p><blockquote><p>STAND ON THE SHOULDERS OF GIANTS.</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Human Embryology &amp; Developmental Biology</category>
+          
+          <category> about </category>
+          
       </categories>
-      <tags>
-        <tag>pregnancy</tag>
-        <tag>gametogensis</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> about </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
